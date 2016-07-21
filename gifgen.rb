@@ -1,9 +1,9 @@
 class Gifgen < Formula
   desc "Simple high quality GIF encoding"
   homepage "https://github.com/lukechilds/gifgen"
-  url "https://github.com/lukechilds/gifgen/archive/1.1.1.zip"
-  version "1.1.1"
-  sha256 "8aca9ca350e85ede5487dc0a5aacb4cd5f15511970dcf4704db6c58a6a96526c"
+  url "https://github.com/lukechilds/gifgen/archive/1.1.2.zip"
+  version "1.1.2"
+  sha256 "ab6784cb53e0ea9e2ca0f43dfb53a1e7931bde624a74fddcaaf3f7b600417c59"
 
   depends_on "ffmpeg"
 
