@@ -16,3 +16,4 @@ brew install package-name
 ## Packages
 
 - [`gifgen`](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
+- [`chest`](https://github.com/lukechilds/chest) - Bash glue to encrypt and hide files
