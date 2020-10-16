@@ -17,3 +17,5 @@ brew install package-name
 
 - [`gifgen`](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 - [`chest`](https://github.com/lukechilds/chest) - Bash glue to encrypt and hide files
+- [`umbrel-dev`](https://github.com/getumbrel/umbrel-dev) - Automatically initialize and manage an Umbrel development environment
+- [`sign-release`](https://github.com/lukechilds/sign-release) - Easy automated release signing
