@@ -19,3 +19,4 @@ brew install package-name
 - [`chest`](https://github.com/lukechilds/chest) - Bash glue to encrypt and hide files
 - [`umbrel-dev`](https://github.com/getumbrel/umbrel-dev) - Automatically initialize and manage an Umbrel development environment
 - [`sign-release`](https://github.com/lukechilds/sign-release) - Easy automated release signing
+- [`humanscript`](https://github.com/lukechilds/humanscript) - A truly natural scripting language
